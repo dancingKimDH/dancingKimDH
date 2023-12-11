@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=234E70&height=150&section=header&text=DancingKim's%20GitHub&fontSize=50&fontAlign=65&fontColor=FBF8BE)
 
-### Hi there 👋
-
-
 ## Tech Stack
 <div class="tech__form"> 
 <div class="tech__form-front"> 
