@@ -27,6 +27,7 @@
 
 ## ✏️ Studied at
 
+
 - **한국외국어대학교 스칸디나비아어학과**: 2017 ~
 - **패스트캠퍼스 고성능 대규모 프론트엔드 10개 프로젝트**: 2023-11 ~ (온라인)
 - **한국직업전문학교 빅데이터 자바(java) 파이썬 S/W 개발자 양성과정**(스프링, 풀스택, 시각화) 2기: 2023-05-09 ~ 2023-10-31
@@ -38,6 +39,12 @@
 - [PROJECT_TAB](https://github.com/lee000403/PROJECT_TAB)
 
 ## ✍️ Practiced with
+
+- [TOY_BLOG](https://github.com/dancingKimDH/toy_blog)
+- [TOY_TWITTER](https://github.com/dancingKimDH/toy_twitter)
+- [TOY_COMMUNITY](https://github.com/dancingKimDH/toy_community)
+- [TOY_DATA_ANALYTICS](https://github.com/dancingKimDH/toy_data_analytics)
+- [TOY_MACHINE_LEARNING](https://github.com/dancingKimDH/toy_machinelearning)
 
 <!--
 **dancingKimDH/dancingKimDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
