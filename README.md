@@ -17,6 +17,13 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </div>
+
+## Learning
+<div class="tech__form">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
 <!--
 **dancingKimDH/dancingKimDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
