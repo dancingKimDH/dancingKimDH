@@ -42,6 +42,7 @@
 
 - [TOY_BLOG](https://github.com/dancingKimDH/toy_blog)
 - [TOY_TWITTER](https://github.com/dancingKimDH/toy_twitter)
+- [TOY_WEDDING](https://github.com/dancingKimDH/toy_wedding)
 - [TOY_COMMUNITY](https://github.com/dancingKimDH/toy_community)
 - [TOY_DATA_ANALYTICS](https://github.com/dancingKimDH/toy_data_analytics)
 - [TOY_MACHINE_LEARNING](https://github.com/dancingKimDH/toy_machinelearning)
